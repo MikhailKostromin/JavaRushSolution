@@ -18,7 +18,7 @@ public class Solution1 {
     }
 
     public static List<Integer> getPositiveNumbers(Stream<Integer> numbers) {
-        //напишите тут ваш код
+        //напишите тут ваш код Из потока данных в список
         return numbers.filter(s -> s > 0).collect(toList());
     }
 }
