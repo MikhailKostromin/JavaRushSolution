@@ -9,7 +9,7 @@ import static java.util.stream.Collectors.toList;
 Из потока данных в список
 */
 
-public class Solution1 {
+public class FromStremToList {
 
     public static void main(String[] args) {
         var numbers = Stream.of(-1, 10, 43, 0, -32, -4, 22);
