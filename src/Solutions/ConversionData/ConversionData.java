@@ -1,4 +1,4 @@
-package Solutions;
+package Solutions.ConversionData;
 
 import java.util.ArrayList;
 import java.util.Collections;
